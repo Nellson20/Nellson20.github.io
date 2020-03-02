@@ -1,0 +1,274 @@
+.r1,.r2
+{
+height:200px;
+width:8%;
+display:inline-block;
+margin-top:40px;
+vertical-align:center;
+}
+.r1
+{
+border-radius:40px 0 0 40px;
+background-color:hsl(180,100%,47%);
+border:3px outset hsl(180,100%,60%);
+border-right:0px;
+position :relative ;
+top:-80px;
+transform:rotate(-10deg);
+margin-left:100px;
+left:-19px;
+}
+.r2
+{
+background-color:hsl(340,100%,60%);
+border:3px outset hsl(340,100%,60%);
+border-radius:0 40px 40px 0;
+border-left:0px;
+position :relative ;
+top:-60px;
+}/*
+.sup
+{
+height:190px;
+width:40%;
+background-color:grey;
+}*/
+.ecran
+{
+height:200px;
+width:37%;
+background-color:hsl(180,10%,40%);
+display :inline-block;
+margin-top:40px;
+vertical-align:center;
+border:3px outset hsl(180,10%,38.5%);border-right:3px outset hsl(180,10%,72%);border-bottom:3px solid hsl(180,10%,38.5%);
+border-radius:3px;
+}
+.join
+{
+width:94%;
+height:190px;
+position :relative ;
+top:3px;
+background-color:black;
+border:1.5px inset grey;
+border-radius:6px;
+margin:auto;}
+.verre
+{
+background :linear-gradient(30deg,black,black,grey,silver,grey,black,black);
+height:160px;
+width:80%;
+margin:20px auto;
+border-radius:2px;
+position:relative ;
+top:-5px;
+}
+.rect1,.rect2
+{
+height:140px;//
+border:1px solid white;
+width:80%;
+margin:auto;
+margin-top:10px;
+}
+.down,.up
+{
+height:6px;
+width:30%;
+border-radius:5px;
+margin-left:45px;}
+.down,.haut,.left,.right,.bas,.x,.y,.a,.b,.up{
+background:radial-gradient(circle,grey 20%,black);
+border:0.8px outset grey;
+}
+.haut,.left,.right,.bas,.x,.y,.a,.b
+{
+height:16px;
+width:16px;
+border-radius:50%;
+}
+.haut
+{
+margin:auto;
+position :relative ;
+top:18px;
+}
+.right
+{
+position :relative ;
+left:40px;
+}
+.left
+{
+position :relative ;
+top:17px;
+left:5px;
+}
+.bas
+{
+margin:auto;
+position :relative ;
+bottom:2px;
+}
+.x,.b
+{
+margin:auto;
+position:relative ;
+top:5px;
+}
+.a
+{
+margin-left:40px;
+}
+.y
+{
+margin-left:6px;
+position :relative ;
+top:5px;}
+.a,.b
+{position :relative;
+top:-13px;
+}
+.joy2
+{height:35px;
+width:35px;
+border-radius:50%;
+position :relative ;
+top:-30px;
+
+background:radial-gradient(circle,black 40%,grey);
+border:2px outset grey;
+margin:auto;}
+.joy21
+{
+width:29px;
+height:29px;
+background :radial-gradient(circle,grey 12%,black);
+border:1.5px solid white;
+border-radius:50px;
+margin:auto;
+}.rond
+{
+position :relative ;
+top:-25px;
+height:20px;
+width:20px;
+border-radius:50%;
+margin-left:5px;
+border:1.5px outset white;
+background :radial-gradient(circle,black,grey);
+}
+.joy1
+{height:35px;
+width:35px;
+border-radius:50%;
+position :relative ;
+top:8px;
+margin:auto;
+background :radial-gradient(circle,black 40%,grey);
+border:2px outset grey;
+}
+.joy11
+{
+background :radial-gradient(circle,grey 12%,black);
+border:1.5px solid white;
+height:29px;
+width:29px;
+border-radius:50%;
+}
+.car
+{
+height:16px;
+width:16px;
+margin-top:6px;
+margin-left:36px;
+border:1.5px outset white;
+background :radial-gradient(circle,black,grey);
+}
+.x,.y,.a,.b
+{
+color:white;
+font-size:0.7em;
+text-align:center;
+padding-top:1px;
+}
+body
+{//
+background :radial-gradient(circle,silver,grey,black) no-repeat;
+font-family:sans-serif;
+}
+.up1
+{
+display:inline-block;
+height:18px;
+width:6px;
+background-color:black;
+position:relative ;
+top:-24.5px;
+left:5.2px;
+background:radial-gradient(circle,grey 23%,black);
+border-radius:5px;
+}
+.up
+{
+display :inline-block;
+position :relative ;
+top:-8.3px;
+right:47px;
+}
+.x,.y
+{
+position :relative ;
+top:-19px;
+}
+.a,.b
+{
+position :relative ;
+top:-38px;
+}
+.h
+{
+position:relative ;
+left:-4px;
+top:-5px;
+}
+.g
+{
+position :relative ;
+left:-5px;
+top:-4px;
+}
+.d
+{
+position:relative ;
+left:-4px;
+top:-4px;
+}
+.ba
+{
+position :relative ;
+top:-8px;
+left:-4px;
+}
+.l1,.l2
+{
+height:25px;
+width:7%;
+background-color:hsl(180,10%,22%);
+border :1.2px outset grey;
+}
+.l1
+{
+border-radius:70px 5px 5px 0;
+position :relative ;
+top:70px;
+transform:rotate(-10deg);
+left:68px;
+}
+.l2
+{
+position :relative ;
+left:544px;
+top:87.7px;
+border-radius:5px 70px 5px 0;
